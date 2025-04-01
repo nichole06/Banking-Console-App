@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.AssemblyInfo.cs
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\bin\Debug\net9.0\BankingAppConsole.exe
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\bin\Debug\net9.0\BankingAppConsole.deps.json
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\bin\Debug\net9.0\BankingAppConsole.runtimeconfig.json
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\bin\Debug\net9.0\BankingAppConsole.dll
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\bin\Debug\net9.0\BankingAppConsole.pdb
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.dll
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\refint\BankingAppConsole.dll
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.pdb
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\BankingAppConsole.genruntimeconfig.cache
+C:\Users\John\Desktop\John\Codes\c#andDotnetPractice\BankingAppConsole\obj\Debug\net9.0\ref\BankingAppConsole.dll
